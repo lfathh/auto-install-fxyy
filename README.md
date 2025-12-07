@@ -1,10 +1,10 @@
-# FxyyCxx
+# ./lfath
 
 ![Layout](https://files.catbox.moe/a9cylv.jpg)
 
 # COMMENT RUN TO VPS
 ```
-bash <(curl -s https://raw.githubusercontent.com/FxyyCx/auto-install-fxyy/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/lfathh/auto-install-fxyy/main/install.sh)
 ```
 ### Supported panel and wings operating systems
 
