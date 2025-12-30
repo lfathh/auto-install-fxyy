@@ -34,8 +34,8 @@ bash <(curl -s https://raw.githubusercontent.com/lfathh/auto-install-fxyy/main/i
 |                    Achievements                 |         Supported        |
 | ----------------------------------------------- | ---------------------    |
 | CLI Support                   | 14.04           | :red_circle:             |
-|                                                 | :red_circle: \*          |
-|                                                 | :red_circle: \ *
+|                                                 | :red_circle:             |
+|                                                 | :red_circle:             |
 |                                                 | :white_check_mark:       |
 |                         | :white_check_mark:       |
 |                     | :white_check_mark:     |
