@@ -29,13 +29,15 @@ bash <(curl -s https://raw.githubusercontent.com/lfathh/auto-install-fxyy/main/i
 | AlmaLinux        | 8       | :white_check_mark: | 8.1         |
 |                  | 9       | :white_check_mark: | 8.1         |
 
-|                    Achievements                 | Supported   |
-| ---------------- | ------- | ------------------ | ------------ |
-| CLI Support                   | 14.04           | :red_circle: |
-|                                                 | :red_circle:\|
-|                    | :red_circle: \      |
-|                     | :white_check_mark:       |
-|                    | :white_check_mark:       |
+### WOKK
+
+|                    Achievements                 |         Supported        |
+| ----------------------------------------------- | ---------------------    |
+| CLI Support                   | 14.04           | :red_circle:             |
+|                                                 | :red_circle: \*          |
+|                                                 | :red_circle: \ *
+|                                                 | :white_check_mark:       |
+|                         | :white_check_mark:       |
 |                     | :white_check_mark:     |
 |                | :red_circle: \             |
 |                         | :red_circle: \          |
